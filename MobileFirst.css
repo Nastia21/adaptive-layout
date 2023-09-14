@@ -1,0 +1,6 @@
+@media screen and (min-resolution: 768px) {
+@media screen and (min-resolution: 1280px){
+    .block {
+        display: flex;
+    }    
+}}
