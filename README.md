@@ -1,1 +1,1 @@
-# responsive-layout
+# adaptive-layout
